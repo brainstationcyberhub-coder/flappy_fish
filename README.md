@@ -1,6 +1,6 @@
 # 🐠 **Flappy Fish Pro** - An Underwater Odyssey
 
-![Flappy Fish Pro Banner](https://i.imgur.com/placeholder.jpg)
+![Flappy Fish Pro Banner]([https://i.imgur.com/placeholder.jpg](https://cdn.dribbble.com/userupload/20749102/file/original-bb8609e212f8e8d1f49e758e6fba38ba.gif))
 
 > **Dive into the deepest ocean adventure** - A mesmerizing aquatic journey where elegance meets challenge in this beautifully crafted endless runner game.
 
@@ -170,18 +170,6 @@ cd flappy-fish-pro
 # Open in browser
 open index.html
 ```
-
-### **File Structure**
-```
-flappy-fish-pro/
-├── index.html          # Main game file
-├── README.md           # This documentation
-├── assets/            # (Optional) External assets
-│   ├── sounds/        # Audio files
-│   └── images/        # Texture files
-└── documentation/     # Additional docs
-```
-
 ### **Browser Compatibility**
 - ✅ Chrome 60+
 - ✅ Firefox 55+
@@ -373,11 +361,10 @@ Ready to explore the depths? The ocean awaits your command. How far can you swim
   
 ### **⭐ Star this project if you love it! ⭐**
   
-[![Play Now](https://img.shields.io/badge/PLAY-NOW-00f5d4?style=for-the-badge&logo=game-controller&logoColor=white)](https://your-deployment-url.com)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/flappy-fish-pro?style=for-the-badge&color=00bbf9)](https://github.com/yourusername/flappy-fish-pro/stargazers)
-[![License](https://img.shields.io/badge/License-MIT-0066cc?style=for-the-badge)](LICENSE)
+[![Play Now](https://evanxplore.site/flappyfish)
+[![GitHub Stars](https://github.com/brainstationcyberhub-coder/flappy_fish)
 
-**Made with ❤️ by ocean explorers everywhere**
+**Made with ❤️ by Isfaq Evan Dipro**
 
 </div>
 
