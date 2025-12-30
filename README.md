@@ -1,6 +1,6 @@
 # 🐠 **Flappy Fish Pro** - An Underwater Odyssey
 
-![Flappy Fish Pro Banner]([https://i.imgur.com/placeholder.jpg](https://cdn.dribbble.com/userupload/20749102/file/original-bb8609e212f8e8d1f49e758e6fba38ba.gif))
+![Flappy Fish Pro Banner](https://i.pinimg.com/originals/06/95/13/069513d3251a1b8a05665eff1896085c.gif)
 
 > **Dive into the deepest ocean adventure** - A mesmerizing aquatic journey where elegance meets challenge in this beautifully crafted endless runner game.
 
